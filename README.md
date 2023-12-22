@@ -48,7 +48,7 @@ Once done, use SQL query to answer the questions below using the data in Databas
 3. What is the average number of athletes?
 ## Running it locally on your machine
 
-1. Clone this repo, and cd to the project root.
+1. Clone this repository, and cd to the project root.
 2. Run python3 handler.py
 ## Purpose
 
